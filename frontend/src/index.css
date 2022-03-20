@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 36px !important;
+    margin-bottom: 30px !important;
+}
+
+.input {
+    margin: 10px 0 !important;
+}
